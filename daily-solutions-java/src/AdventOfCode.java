@@ -6,7 +6,7 @@ import java.util.Scanner;
 public class AdventOfCode {
 
 	public static void main(String[] args) throws FileNotFoundException {
-		System.out.println(Day2.puzzle2(readInFileLines("day2-input.txt")));
+		System.out.println(Day3.puzzle2(readInFileLines("day3-input.txt")));
 	}
 
 	
