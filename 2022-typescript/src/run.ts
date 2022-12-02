@@ -1,8 +1,8 @@
-import { day1 } from "./day1";
+import day2 from "./day2";
 
 class Run {
   public static start() {
-    day1();
+    day2.puzzle2();
   }
 }
 
