@@ -1,4 +1,4 @@
-import day from "./day7";
+import day from "./day12";
 
 class Run {
   public static start() {
