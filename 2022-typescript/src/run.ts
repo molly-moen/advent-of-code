@@ -1,8 +1,8 @@
-import day from "./day12";
+import {parsePoem} from "./stringParser";
 
 class Run {
   public static start() {
-    console.log(day.puzzle2());
+    console.log(parsePoem());
   }
 }
 
