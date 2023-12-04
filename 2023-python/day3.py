@@ -2,8 +2,6 @@ from helpers import *
 
 def part1():
   lines = read_lines('day3.txt')
-  nums = ['0', '1', '2', '3', '4', '5', '6', '7', '8', '9']
-  period = '.'
   sum = 0
   for line_index, line in enumerate(lines):
     line = line.strip()
